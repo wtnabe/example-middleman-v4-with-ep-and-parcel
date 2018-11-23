@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "parcel-bundler": "^1.10.3",
+    "sass": "^1.15.1"
+  },
+  "scripts": {
+    "watch": "./bin/parcel-build",
+    "build": "./bin/parcel-build production"
+  },
+  "devDependencies": {}
+}
